@@ -27,7 +27,6 @@ const postRegister = async (req, res) => {
     });
 
     // create JWT token
-    // const token='JWT TOKEN';
     const token = jwt.sign(
       {
         userId: user._id,
