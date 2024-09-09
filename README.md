@@ -1,4 +1,4 @@
-# Meet-Now
+# Meet-Now (A part of Software Engineering Lab Project, Created application using Software Engineering principles)
 1. uninstall your nodejs
 2. install the 14.16.1 as our dependencies are depreciated
 3. after that just go to backend and "npm start"
